@@ -1,1 +1,1 @@
-# JJtect-Ec2--Automation
+# JJtect-ec2-automation
